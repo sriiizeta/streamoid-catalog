@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Python environment variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Python egg / distribution
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+
+# FastAPI uploads
+uploads/
+
+# Node modules (if using any frontend JS build)
+node_modules/
+
+# JetBrains IDEs
+.idea/
+
+# Other OS files
+Thumbs.db

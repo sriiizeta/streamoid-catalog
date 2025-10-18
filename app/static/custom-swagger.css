@@ -1,0 +1,35 @@
+/* Body background */
+body.swagger-ui {
+    background-color: #f0f8ff !important;
+    font-family: 'Segoe UI', sans-serif !important;
+}
+
+/* Top bar */
+.swagger-ui .topbar {
+    background-color: #4caf50 !important;
+}
+
+/* Main headings */
+.swagger-ui .information-container h1,
+.swagger-ui .information-container h2,
+.swagger-ui .information-container h3 {
+    color: #333 !important;
+}
+
+/* Buttons */
+.swagger-ui .btn,
+.swagger-ui .btn.authorize {
+    background-color: #4caf50 !important;
+    color: white !important;
+    border-radius: 8px !important;
+}
+
+/* Hover effect */
+.swagger-ui .btn:hover {
+    background-color: #45a049 !important;
+}
+
+/* Links */
+.swagger-ui a {
+    color: #1a73e8 !important;
+}
